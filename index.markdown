@@ -1,6 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+author: Alice
+description: testing
+title: my blog post 1
+group: home
 ---
+
+# My Blog Post
+
+## This is my blog post.
